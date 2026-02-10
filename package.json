@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://menelsil.github.io/Smart-Event/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
